@@ -1,2 +1,3 @@
-Ryan
+Ryan <ryanrolds@gmail.com> 
  - HTML, CSS, JS, Node.js, PHP, Java, C#, C++, PERL, Objective-C
+ - If anyone has any questions about git or Node.js, just email me
