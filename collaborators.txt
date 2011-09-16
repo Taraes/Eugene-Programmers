@@ -15,8 +15,3 @@ Jim Miller <james.m@live.com>
  - Goals: Used to be world domination until I discovered how much paperwork is invollved...Now I'm content with enjoying myself and meeting some like-minded individuals, possibly creating something amazing as a result.
  - Cool Stuff - My office
  - We are never lost, just blissfuly misdirected on an adventure with no known goal. -- Me
-
-Dylan Edwards <dylan@fantabulousness.com>
- - Skills: PHP, MySQL, HTML, CSS, JavaScript, ActionScript, Lingo, some Java, BREW, Symbian. I've dabbled in PERL, Python, and a bunch of other stuff…. Currently I'm studying C++ and Objective-C.
- - Goals: To learn a thing or two
- - Cool Stuff - my site: http://fantabulousness.com
