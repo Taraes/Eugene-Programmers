@@ -6,6 +6,7 @@ Ryan <ryanrolds@gmail.com>
 
 Benjamin Lehman <benjamin@whiteowllogistix.com>
  - Skills: PHP / MySQL, HTML, CSS, some javascript stuff (just getting feet wet with jquery etc), little python/ruby
+ - Primarily a Drupal geek
  - [parrots Ryan on goals]
  - Cool Stuff : xkcd.com
  - lets get this party started...
@@ -18,6 +19,6 @@ Jim Miller <james.m@live.com>
 [lol jim, your goals are cool, lol. laughed so hard my sombrero fell off and i dropped my taco]
 
 Dylan Edwards <dylan@fantabulousness.com>
- - Skills: PHP, MySQL, HTML, CSS, JavaScript, ActionScript, Lingo, some Java, BREW, Symbian. I've dabbled in PERL, Python, and a bunch of other stuffÉ. Currently I'm studying C++ and Objective-C.
+ - Skills: PHP, MySQL, HTML, CSS, JavaScript, ActionScript, Lingo, some Java, BREW, Symbian. I've dabbled in PERL, Python, and a bunch of other stuffï¿½. Currently I'm studying C++ and Objective-C.
  - Goals: To learn a thing or two
  - Cool Stuff - my site: http://fantabulousness.com
