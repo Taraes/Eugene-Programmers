@@ -22,3 +22,8 @@ Dylan Edwards <dylan@fantabulousness.com>
  - Skills: PHP, MySQL, HTML, CSS, JavaScript, ActionScript, Lingo, some Java, BREW, Symbian. I've dabbled in PERL, Python, and a bunch of other stuff�. Currently I'm studying C++ and Objective-C.
  - Goals: To learn a thing or two
  - Cool Stuff - my site: http://fantabulousness.com
+
+Lauren Russell <lauren@becreativegroup.com> 
+ - Skills: HTML, CSS, JS/jQuery, PHP, MySQL, social web/APIs
+ - Goals: Meet others that have similar skills and find out what local devs are working on.
+ - Cool stuff: becreativegroup.com, givimo.com 
