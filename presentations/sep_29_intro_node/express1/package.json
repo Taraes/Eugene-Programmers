@@ -1,0 +1,8 @@
+{
+    "name": "ExpressExample",
+    "description": "An example appliaction using express",
+    "version": "0.0.1",
+    "dependencies": {
+	"express": ""
+    }
+}

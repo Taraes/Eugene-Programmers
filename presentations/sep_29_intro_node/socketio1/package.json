@@ -1,0 +1,9 @@
+{
+    "name": "SocketIOExample",
+    "description": "Socket.io example",
+    "version": "0.0.1",
+    "dependencies": {
+	"express": "",
+	"socket.io": ""
+    }
+}
