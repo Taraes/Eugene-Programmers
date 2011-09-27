@@ -1,17 +1,21 @@
-<html>
+<!DOCTYPE html>
 <head>
-  <script src="/socket.io/socket.io.js"></script>
-  <script>
-  var socket = io.connect('http://lobbylobbylobbylobby.com:9001');
-  socket.on('news', function (data) {
-    console.log(data);
-    socket.emit('my other event', { my: 'data' });
-  });
-  </script>
+  <!-- Idea and some code snippits from: https://gist.github.com/488562 -->
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+  <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+  <script type="text/javascript" src="/browser.js"></script>
+  <style type="text/css">
+    .cursor {
+      position: absolute;
+      background-repeat: no-repeat;
+      height: 22px;
+      width: 15px;
+      background-image: url('/cursor.png');
+      z-index: 100;
+    }
+  </style>
+  <title>Socket.io demo</title>
 </head>
 <body>
-
-
-
 </body>
 </html>
