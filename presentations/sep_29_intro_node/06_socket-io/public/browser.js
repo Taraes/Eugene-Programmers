@@ -3,6 +3,7 @@ var socket = io.connect(window.location.href);
 // Handle disconnects
 socket.on('peer disconnect', function(data) {
   $('#cursor_' + data.id).remove();
+  updateTitle();
 });
 
 // Handle peer movements
@@ -18,6 +19,7 @@ socket.on('peer move', function(data) {
 
     // Add to document
     document.getElementsByTagName('body')[0].appendChild(cursor);
+    updateTitle();
   }
 
   // Set position
@@ -31,3 +33,7 @@ $(document).one('ready', function() {
     socket.emit('move', { x: event.pageX, y: event.pageY });
   });
 });
+
+function updateTitle() {
+    document.title = + $('.cursor').length + ' user(s) :: Socket.io demo';
+}
