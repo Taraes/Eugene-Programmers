@@ -29,3 +29,10 @@ Lauren Russell <lauren@becreativegroup.com>
  - Skills: HTML, CSS, JS/jQuery, PHP, MySQL, social web/APIs
  - Goals: Meet others that have similar skills and find out what local devs are working on.
  - Cool stuff: becreativegroup.com, givimo.com 
+
+Mark Hazen <markh@markhcom>
+ - Skills: PHP, MySQL, Postgres, HTML, CSS, JavaScript/jQuery, system/network
+   engineering and administration, web service APIs, security, etc. Jack of all trades.
+ - Goals: Hang out with bright people, collaborate with them and expand my geek-fu exponentially. Rawr!
+ - Cool stuff: reddit.com (goodbye productivity!) and markh.com (undergoing reboot)
+
